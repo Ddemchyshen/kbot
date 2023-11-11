@@ -1,12 +1,14 @@
 # kbot
 kbot v.1.0.2
 
-Telegram link:
-    https://t.me/dmytrodemchyshen_bot
+Telegram link: https://t.me/dmytrodemchyshen_bot
 
-Basic commands in Telegram:
-    /start hello    Get name and version of bot
+Basic commands in Telegram:\
+&emsp;
+``/start hello`` &emsp; Get name and version of bot
 
-Commands
-    help
-    version
+Commands:\
+&emsp;
+``help``\
+&emsp;
+``version``
